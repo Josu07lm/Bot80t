@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix }) => {
-  if (global.conn.user.jid == conn.user.jid) conn.reply(m.chat, 'Este comando es solo para aquellos que son bots', m)
+  if (global.conn.user.jid == conn.user.jid) conn.reply(m.chat, 'Este comando es solo para aquellos que son bots, lo siento mi friend:((', m)
   else global.conn.reply(conn.user.jid, `${usedPrefix}jadibot ${Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString('base64')}`, m)
 }
 handler.help = ['getcode']
