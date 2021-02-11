@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/sRGUfOYkLt5chUss87/giphy.gif" width="128" height="135"/>
+<img src="https://c.tenor.com/ydB-bVb1KAwAAAAC/meliodas-the-seven-deadly-sins.gif" width="128" height="135"/>
 </p>
 
 # esu-bot
