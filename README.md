@@ -5,7 +5,7 @@
 # esu-bot
 Simple WhatsApp Bot for Andriod & pc
 
-BOT BY Meliodas
+BOT BY 🔥MΣᄂIӨDΛƧ❤
 
 💕💕💕MΣᄂIӨDΛƧ🔥🔥🔥
 
