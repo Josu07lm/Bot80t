@@ -25,6 +25,7 @@ function pickRandom(list) {
 global.bucin = [
   "Elijo estar solo, no por esperar lo perfecto, pero nunca tengo que rendirme",
   "Se creó una sola persona con una pareja que no había encontrado",
+"A menudo tuve personas importantes en mi, la mejor es.. MI DIOS MΣᄂIӨDΛƧ😈🙏",
   "Solteros. Tal vez sea la forma de Dios de decir 'Descansa del amor equivocado'.",
   "Los solteros son jóvenes que priorizan su desarrollo personal para un amor con más clase en el futuro",
   "No busco a alguien que sea perfecto, sino a alguien que se vuelva perfecto gracias a mi fuerza",
