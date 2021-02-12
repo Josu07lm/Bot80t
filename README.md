@@ -16,7 +16,7 @@ BOT BY 🔥MΣᄂIӨDΛƧ❤
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Samu330/esubot
+> git clone https://github.com/MeliodasJAJA/MeliodasBot03
 > cd MeliodasBot03
 > npm install
 ```
