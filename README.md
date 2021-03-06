@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/ydB-bVb1KAwAAAAC/meliodas-the-seven-deadly-sins.gif" width="296" height="270"/>
 </p>
 
-# esu-bot
+# BOT00111
 Simple WhatsApp Bot for Andriod & pc
 
 BOT BY 🔥MΣᄂIӨDΛƧ❤
